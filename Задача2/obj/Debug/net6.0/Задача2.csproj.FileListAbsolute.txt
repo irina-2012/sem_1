@@ -1,0 +1,15 @@
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\bin\Debug\net6.0\Задача2.exe
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\bin\Debug\net6.0\Задача2.deps.json
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\bin\Debug\net6.0\Задача2.runtimeconfig.json
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\bin\Debug\net6.0\Задача2.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\bin\Debug\net6.0\Задача2.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.csproj.AssemblyReference.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfo.cs
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\refint\Задача2.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\Задача2.genruntimeconfig.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\Задача2\obj\Debug\net6.0\ref\Задача2.dll
