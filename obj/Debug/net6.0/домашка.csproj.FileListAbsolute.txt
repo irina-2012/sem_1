@@ -1,0 +1,15 @@
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\bin\Debug\net6.0\домашка.exe
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\bin\Debug\net6.0\домашка.deps.json
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\bin\Debug\net6.0\домашка.runtimeconfig.json
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\bin\Debug\net6.0\домашка.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\bin\Debug\net6.0\домашка.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.csproj.AssemblyReference.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.AssemblyInfoInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.AssemblyInfo.cs
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.csproj.CoreCompileInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\refint\домашка.dll
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\домашка.genruntimeconfig.cache
+C:\Users\pimak\OneDrive\Рабочий стол\домашка\obj\Debug\net6.0\ref\домашка.dll
